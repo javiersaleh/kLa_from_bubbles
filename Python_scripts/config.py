@@ -11,7 +11,7 @@ experiment_params = {
     'crop_coords': (0, 420, 1250, 270),  # y, x, h, w
     "min_area": 20 #Constant
 }
-
-file_pattern = "C:/Users/javie/OneDrive/Documentos/Tracking bubbles/Nuevos Videos/col28_fl10/frames_it1/frame{:03d}.PNG"
+#need to change the following file_patern and the starting and final frame to analize
+file_pattern = "C:/Users/javie/OneDrive/Documentos/paper/Videos/col28_fl10/frames_it1/frame{:03d}.PNG"
 start = 500
 end = 515
